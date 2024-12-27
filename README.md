@@ -1,0 +1,1 @@
+This project is about creating an Aggregative Movie Analyzer using Python and Bash Script. In the provided code someone will find the development phase in both programming languages. Except for that, my fellow student Konstantinos Petropoulos and I, wrote code that does Logging and Profiling of the code. 
